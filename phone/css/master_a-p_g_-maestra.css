@@ -1,0 +1,54 @@
+#u2020
+{
+	background-color: #F2F2F2;
+}
+
+#u1679
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u1677
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u1674-4
+{
+	display: block;
+	vertical-align: top;
+	position: relative;
+}
+
+#u1675,#u1681
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u1683
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u1685
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u1679:hover,#u1677:hover,#u1681:hover,#u1683:hover,#u1685:hover
+{
+	background-color: transparent;
+}
+
+#u1679_img:hover,#u1677_img:hover,#u1681_img:hover,#u1683_img:hover,#u1685_img:hover
+{
+	opacity: 0.75;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
+	filter: alpha(opacity=75);
+}
+

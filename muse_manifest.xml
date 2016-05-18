@@ -1,0 +1,290 @@
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="false" exportTarget="other" domain="www.bitdex.com.ar" resolutions="1x" timestamp="1453765433530">
+  <folder name="css">
+    <file name="site_global.css" crc="3983087628"/>
+    <file name="master_a-p_g_-maestra.css" crc="4106442132" ref="index"/>
+    <file name="index.css" crc="332257825" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="phone>index:index"/>
+    <file name="museutils.js" crc="275725342" ref="phone>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="phone>index:index"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:index"/>
+    <file name="webpro.js" crc="3883484123" ref="phone>index:index"/>
+    <file name="musewpdisclosure.js" crc="404074387" ref="phone>index:index"/>
+    <file name="museredirect.js" crc="3899419633" ref="index"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="index"/>
+    <file name="touchswipe.js" crc="4218319045" ref="index"/>
+    <file name="form_check.php" crc="3932029206" ref="index"/>
+    <file name="form_throttle.php" crc="314685628" ref="index"/>
+    <file name="form_process.php" crc="401030677" ref="index"/>
+    <file name="form-u937.php" crc="244247469" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="a-pág.-maestra-favicon.ico" crc="3831253512" ref="phone>index"/>
+    <file name="inicio.jpg" crc="417621131" ref="phone>index:index"/>
+    <file name="u1712-4.png" crc="3995588189" ref="phone>index"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:index"/>
+    <file name="u1715.png" crc="352467727" ref="phone>index"/>
+    <file name="u1715-r.png" crc="352467727" ref="phone>index"/>
+    <file name="u1715-m.png" crc="352467727" ref="phone>index"/>
+    <file name="logo-u1716.png" crc="512574160" ref="phone>index"/>
+    <file name="u1701.png" crc="4079398039" ref="phone>index"/>
+    <file name="u1701-r.png" crc="38314708" ref="phone>index"/>
+    <file name="u1701-m.png" crc="38314708" ref="phone>index"/>
+    <file name="u1701-a.png" crc="38314708" ref="phone>index"/>
+    <file name="u1729_states.png" crc="3969686279" ref="phone>index"/>
+    <file name="u1729_states-m.png" crc="3944044249" ref="phone>index"/>
+    <file name="u1729_states-a.png" crc="3944044249" ref="phone>index"/>
+    <file name="u1730_states.png" crc="4238741424" ref="phone>index"/>
+    <file name="u1730_states-m.png" crc="504408646" ref="phone>index"/>
+    <file name="u1730_states-a.png" crc="504408646" ref="phone>index"/>
+    <file name="u1732_states.png" crc="451982727" ref="phone>index"/>
+    <file name="u1732_states-m.png" crc="486243947" ref="phone>index"/>
+    <file name="u1731_states.png" crc="3960280593" ref="phone>index"/>
+    <file name="u1731_states-m.png" crc="4183701124" ref="phone>index"/>
+    <file name="u1731_states-a.png" crc="4183701124" ref="phone>index"/>
+    <file name="u1921_states.png" crc="4164987295" ref="phone>index"/>
+    <file name="u1921_states-r.png" crc="4074343184" ref="phone>index"/>
+    <file name="u1921_states-a.png" crc="445394517" ref="phone>index"/>
+    <file name="u1720-4.png" crc="4020618641" ref="phone>index"/>
+    <file name="u1721-9.png" crc="60789463" ref="phone>index"/>
+    <file name="apple keyboard and mouse-u1722.png" crc="4186138300" ref="phone>index"/>
+    <file name="u1924-4.png" crc="4024046281" ref="phone>index"/>
+    <file name="responsive web desing.jpg" crc="314497607" seo="true" ref="phone>index:index"/>
+    <file name="multimedia.jpg" crc="3954628331" seo="true" ref="phone>index:index"/>
+    <file name="administracion.png" crc="4001232779" seo="true" ref="phone>index:index"/>
+    <file name="e-commerce.jpg" crc="269643203" seo="true" ref="phone>index:index"/>
+    <file name="u1955-4.png" crc="339614100" ref="phone>index"/>
+    <file name="busqueda.jpg" crc="3943319093" seo="true" ref="phone>index:index"/>
+    <file name="grafico.jpg" crc="4166218440" seo="true" ref="phone>index:index"/>
+    <file name="servicios.jpg" crc="206824196" seo="true" ref="phone>index:index"/>
+    <file name="soporte.jpg" crc="3856185485" seo="true" ref="phone>index:index"/>
+    <file name="estetica.jpg" crc="181226930" seo="true" ref="phone>index:index"/>
+    <file name="infraestructura.jpg" crc="361384140" seo="true" ref="phone>index:index"/>
+    <file name="u1978-4.png" crc="232761144" ref="phone>index"/>
+    <file name="u1943-4.png" crc="413136385" ref="phone>index"/>
+    <file name="u1947-4.png" crc="36732352" ref="phone>index"/>
+    <file name="u1956-4.png" crc="4282983183" ref="phone>index"/>
+    <file name="u1963-4.png" crc="3809183356" ref="phone>index"/>
+    <file name="u1964-4.png" crc="410521327" ref="phone>index"/>
+    <file name="u1971-4.png" crc="396503631" ref="phone>index"/>
+    <file name="u1972-4.png" crc="3903503220" ref="phone>index"/>
+    <file name="u1977-4.png" crc="165212878" ref="phone>index"/>
+    <file name="u1980_states.png" crc="3770998810" ref="phone>index"/>
+    <file name="u1980_states-r.png" crc="4000984756" ref="phone>index"/>
+    <file name="u1981-6.png" crc="291761582" ref="phone>index"/>
+    <file name="contacto-u1787-fr.png" crc="3886414826" ref="phone>index:index"/>
+    <file name="u1788-4.png" crc="4048930229" ref="phone>index"/>
+    <file name="u1789-4.png" crc="377354265" ref="phone>index"/>
+    <file name="u1790_states.png" crc="333421929" ref="phone>index"/>
+    <file name="u1790_states-r.png" crc="117903702" ref="phone>index"/>
+    <file name="u1790_states-a.png" crc="117903702" ref="phone>index"/>
+    <file name="u1993-4.png" crc="3809617207" ref="phone>index"/>
+    <file name="cherquetti propiedades 1.jpg" crc="4199884221" ref="phone>index"/>
+    <file name="bitdex 1.jpg" crc="508813734" ref="phone>index"/>
+    <file name="novias y quinces 1.jpg" crc="536716418" ref="phone>index"/>
+    <file name="direccion digital.jpg" crc="419545685" ref="phone>index"/>
+    <file name="u1835-5.png" crc="3877980569" ref="phone>index"/>
+    <file name="u1807-4.png" crc="527177374" ref="phone>index"/>
+    <file name="u1809-4.png" crc="3813322576" ref="phone>index"/>
+    <file name="u1818-4.png" crc="193159450" ref="phone>index"/>
+    <file name="u1820-4.png" crc="4200053321" ref="phone>index"/>
+    <file name="u1836-4.png" crc="88843265" ref="phone>index"/>
+    <file name="redes sociales - facebook.png" crc="338194509" seo="true" ref="phone>index:index"/>
+    <file name="redes sociales - twitter.jpg" crc="59234612" seo="true" ref="phone>index:index"/>
+    <file name="redes sociales - medium.jpg" crc="3875405259" seo="true" ref="phone>index:index"/>
+    <file name="u1848_states.png" crc="4071417263" ref="phone>index"/>
+    <file name="u1848_states-r.png" crc="429073490" ref="phone>index"/>
+    <file name="u1998-4.png" crc="244632357" ref="phone>index"/>
+    <file name="u2002-4.png" crc="497534615" ref="phone>index"/>
+    <file name="u1867-4.png" crc="3943753361" ref="phone>index"/>
+    <file name="u1866-4.png" crc="183821500" ref="phone>index"/>
+    <file name="u2003_states.png" crc="4074343184" ref="phone>index"/>
+    <file name="u2003_states-r.png" crc="4074343184" ref="phone>index"/>
+    <file name="u2003_states-a.png" crc="10592061" ref="phone>index"/>
+    <file name="compartir - facebook.png" crc="267070899" seo="true" ref="phone>index:index"/>
+    <file name="compartir - google-.png" crc="528115660" seo="true" ref="phone>index:index"/>
+    <file name="u1674-4.png" crc="21246986" ref="phone>index"/>
+    <file name="ubicacion.png" crc="465728671" seo="true" ref="phone>index:index"/>
+    <file name="compartir - twitter.png" crc="4056393553" seo="true" ref="phone>index:index"/>
+    <file name="compartir - linkedin.png" crc="188623166" seo="true" ref="phone>index:index"/>
+    <file name="compartir - email.png" crc="496796234" seo="true" ref="phone>index:index"/>
+    <file name="-favicon.ico" crc="3831253512" ref="index"/>
+    <file name="u1324_states.png" crc="3808884996" ref="index"/>
+    <file name="u1324_states-r.png" crc="142214203" ref="index"/>
+    <file name="u1324_states-m.png" crc="443232722" ref="index"/>
+    <file name="u1324_states-a.png" crc="443232722" ref="index"/>
+    <file name="u1325_states.png" crc="3960143984" ref="index"/>
+    <file name="u1325_states-r.png" crc="234398009" ref="index"/>
+    <file name="u1325_states-m.png" crc="220653362" ref="index"/>
+    <file name="u1325_states-a.png" crc="220653362" ref="index"/>
+    <file name="u1326_states.png" crc="230434562" ref="index"/>
+    <file name="u1326_states-r.png" crc="384574349" ref="index"/>
+    <file name="u1326_states-m.png" crc="1007505" ref="index"/>
+    <file name="u1326_states-a.png" crc="1007505" ref="index"/>
+    <file name="u1327_states.png" crc="525137362" ref="index"/>
+    <file name="u1327_states-r.png" crc="4193247759" ref="index"/>
+    <file name="u1327_states-m.png" crc="283374705" ref="index"/>
+    <file name="u1327_states-a.png" crc="283374705" ref="index"/>
+    <file name="u1328_states.png" crc="315148075" ref="index"/>
+    <file name="u1328_states-r.png" crc="4176733153" ref="index"/>
+    <file name="u1328_states-m.png" crc="3842364452" ref="index"/>
+    <file name="u1329_states.png" crc="352467727" ref="index"/>
+    <file name="u1329_states-r.png" crc="352467727" ref="index"/>
+    <file name="u1329_states-m.png" crc="352467727" ref="index"/>
+    <file name="u1329_states-a.png" crc="352467727" ref="index"/>
+    <file name="u489-4-a.png" crc="352467727" ref="index"/>
+    <file name="u607-4.png" crc="104275765" ref="index"/>
+    <file name="logo-u519-a.png" crc="512574160" ref="index"/>
+    <file name="u961_states.png" crc="158454619" ref="index"/>
+    <file name="u961_states-r.png" crc="14940998" ref="index"/>
+    <file name="u961_states-m.png" crc="4214686504" ref="index"/>
+    <file name="u961_states-a.png" crc="158454619" ref="index"/>
+    <file name="u962_states.png" crc="314809063" ref="index"/>
+    <file name="u962_states-r.png" crc="495083787" ref="index"/>
+    <file name="u962_states-m.png" crc="181840177" ref="index"/>
+    <file name="u962_states-a.png" crc="314809063" ref="index"/>
+    <file name="u963_states.png" crc="4252956637" ref="index"/>
+    <file name="u963_states-r.png" crc="356007486" ref="index"/>
+    <file name="u963_states-m.png" crc="340096253" ref="index"/>
+    <file name="u963_states-a.png" crc="4252956637" ref="index"/>
+    <file name="u1037_states.png" crc="61079145" ref="index"/>
+    <file name="u1037_states-r.png" crc="4223647306" ref="index"/>
+    <file name="u1037_states-m.png" crc="3830878103" ref="index"/>
+    <file name="u1901_states.png" crc="3884030979" ref="index"/>
+    <file name="u1901_states-r.png" crc="259931438" ref="index"/>
+    <file name="u1901_states-a.png" crc="3891995838" ref="index"/>
+    <file name="logo-u1330.png" crc="512574160" ref="index"/>
+    <file name="u612-4.png" crc="4234694822" ref="index"/>
+    <file name="u614-9.png" crc="409028632" ref="index"/>
+    <file name="apple keyboard and mouse-u720.png" crc="4227168513" ref="index"/>
+    <file name="u621-4.png" crc="3822129969" ref="index"/>
+    <file name="u1270-4.png" crc="47236272" ref="index"/>
+    <file name="u1266-4.png" crc="213894751" ref="index"/>
+    <file name="u1269-6.png" crc="36485108" ref="index"/>
+    <file name="u1271-4.png" crc="4141306861" ref="index"/>
+    <file name="u1273-4.png" crc="243989489" ref="index"/>
+    <file name="u1274-4.png" crc="4182715504" ref="index"/>
+    <file name="u1277-4.png" crc="526114090" ref="index"/>
+    <file name="u1279-4.png" crc="3964657383" ref="index"/>
+    <file name="u1284-4.png" crc="524547097" ref="index"/>
+    <file name="u1275-4.png" crc="10366512" ref="index"/>
+    <file name="u1278-6.png" crc="402317751" ref="index"/>
+    <file name="u1280-4.png" crc="4063705000" ref="index"/>
+    <file name="u1300-4.png" crc="4206049351" ref="index"/>
+    <file name="u1265-4.png" crc="3978208769" ref="index"/>
+    <file name="u1267-4.png" crc="145974354" ref="index"/>
+    <file name="u1272-4.png" crc="195521007" ref="index"/>
+    <file name="u1282-4.png" crc="239574900" ref="index"/>
+    <file name="u1302_states.png" crc="3770998810" ref="index"/>
+    <file name="u1302_states-r.png" crc="4000984756" ref="index"/>
+    <file name="u1420-6.png" crc="4285140904" ref="index"/>
+    <file name="u703-4.png" crc="3907637235" ref="index"/>
+    <file name="u704-4.png" crc="49063218" ref="index"/>
+    <file name="u705_states.png" crc="333421929" ref="index"/>
+    <file name="u705_states-r.png" crc="117903702" ref="index"/>
+    <file name="u705_states-a.png" crc="117903702" ref="index"/>
+    <file name="u727-4.png" crc="3978809621" ref="index"/>
+    <file name="u737.png" crc="441055792" ref="index"/>
+    <file name="u737-r.png" crc="7082879" ref="index"/>
+    <file name="u737-m.png" crc="302550311" ref="index"/>
+    <file name="u737-a.png" crc="3827107539" ref="index"/>
+    <file name="u732.png" crc="4128402808" ref="index"/>
+    <file name="u732-r.png" crc="3989465324" ref="index"/>
+    <file name="u732-m.png" crc="47848926" ref="index"/>
+    <file name="u732-a.png" crc="27750218" ref="index"/>
+    <file name="u978-4.png" crc="274733345" ref="index"/>
+    <file name="cherquetti propiedades 1-u984-fr.jpg" crc="530632553" ref="index"/>
+    <file name="cherquetti propiedades 1-u984-r-fr.png" crc="4254134638" ref="index"/>
+    <file name="cherquetti propiedades 2-u983-fr.jpg" crc="104913507" ref="index"/>
+    <file name="cherquetti propiedades 2-u983-r-fr.png" crc="4034148999" ref="index"/>
+    <file name="cherquetti propiedades 4-u987-fr.jpg" crc="4220121485" ref="index"/>
+    <file name="cherquetti propiedades 4-u987-r-fr.png" crc="4289805898" ref="index"/>
+    <file name="cherquetti propiedades 5-u986-fr.jpg" crc="4163182471" ref="index"/>
+    <file name="cherquetti propiedades 5-u986-r-fr.png" crc="4150225488" ref="index"/>
+    <file name="cherquetti propiedades 6-u988-fr.jpg" crc="4134251845" ref="index"/>
+    <file name="cherquetti propiedades 6-u988-r-fr.png" crc="4126865385" ref="index"/>
+    <file name="cherquetti propiedades 3-u985-fr.jpg" crc="3962279805" ref="index"/>
+    <file name="cherquetti propiedades 3-u985-r-fr.png" crc="4273114651" ref="index"/>
+    <file name="cherquetti propiedades 12.jpg" crc="3860161822" ref="index"/>
+    <file name="cherquetti propiedades 2.jpg" crc="215157571" ref="index"/>
+    <file name="cherquetti propiedades 3.jpg" crc="409714150" ref="index"/>
+    <file name="cherquetti propiedades 4.jpg" crc="123110291" ref="index"/>
+    <file name="cherquetti propiedades 5.jpg" crc="15040283" ref="index"/>
+    <file name="cherquetti propiedades 6.jpg" crc="257053775" ref="index"/>
+    <file name="u1078-4.png" crc="4273549879" ref="index"/>
+    <file name="u1077-4.png" crc="3834923806" ref="index"/>
+    <file name="bitdex 1-u1083-fr.jpg" crc="4146764179" ref="index"/>
+    <file name="bitdex 1-u1083-r-fr.png" crc="359095909" ref="index"/>
+    <file name="bitdex 2-u1084-fr.jpg" crc="4086670403" ref="index"/>
+    <file name="bitdex 2-u1084-r-fr.png" crc="4019188946" ref="index"/>
+    <file name="bitdex 12.jpg" crc="4038989444" ref="index"/>
+    <file name="bitdex 2.jpg" crc="181797158" ref="index"/>
+    <file name="u1139-4.png" crc="4021246860" ref="index"/>
+    <file name="novias y quinces 1-u1155-fr.jpg" crc="230804611" ref="index"/>
+    <file name="novias y quinces 1-u1155-r-fr.png" crc="3771861911" ref="index"/>
+    <file name="novias y quinces 2-u1153-fr.jpg" crc="130868693" ref="index"/>
+    <file name="novias y quinces 2-u1153-r-fr.png" crc="4193630650" ref="index"/>
+    <file name="novias y quinces 4-u1156-fr.jpg" crc="4120589960" ref="index"/>
+    <file name="novias y quinces 4-u1156-r-fr.png" crc="164740846" ref="index"/>
+    <file name="novias y quinces 3-u1154-fr.jpg" crc="169290593" ref="index"/>
+    <file name="novias y quinces 3-u1154-r-fr.png" crc="92356462" ref="index"/>
+    <file name="novias y quinces 12.jpg" crc="130656246" ref="index"/>
+    <file name="novias y quinces 2.jpg" crc="327610943" ref="index"/>
+    <file name="novias y quinces 3.jpg" crc="409802305" ref="index"/>
+    <file name="novias y quinces 4.jpg" crc="337270800" ref="index"/>
+    <file name="u1204-4.png" crc="3848025306" ref="index"/>
+    <file name="direccion digital-u1210-fr.jpg" crc="52943638" ref="index"/>
+    <file name="direccion digital-u1210-r-fr.png" crc="3964120655" ref="index"/>
+    <file name="direccion digital2.jpg" crc="154779487" ref="index"/>
+    <file name="u1243-5.png" crc="3976010606" ref="index"/>
+    <file name="u1251-4.png" crc="11924259" ref="index"/>
+    <file name="u814.png" crc="354896928" ref="index"/>
+    <file name="u814-r.png" crc="3827081652" ref="index"/>
+    <file name="u814-m.png" crc="3827081652" ref="index"/>
+    <file name="u814-a.png" crc="3827081652" ref="index"/>
+    <file name="u1076.png" crc="4053252346" ref="index"/>
+    <file name="u1076-r.png" crc="4263093201" ref="index"/>
+    <file name="u1076-m.png" crc="4263093201" ref="index"/>
+    <file name="u1076-a.png" crc="3952613410" ref="index"/>
+    <file name="u1137.png" crc="293126541" ref="index"/>
+    <file name="u1137-r.png" crc="4068415271" ref="index"/>
+    <file name="u1137-m.png" crc="4068415271" ref="index"/>
+    <file name="u1137-a.png" crc="293126541" ref="index"/>
+    <file name="u1203.png" crc="4234039999" ref="index"/>
+    <file name="u1203-r.png" crc="168462887" ref="index"/>
+    <file name="u1203-m.png" crc="168462887" ref="index"/>
+    <file name="u1203-a.png" crc="168462887" ref="index"/>
+    <file name="u1239.png" crc="268148463" ref="index"/>
+    <file name="u1239-r.png" crc="187502159" ref="index"/>
+    <file name="u1239-m.png" crc="187502159" ref="index"/>
+    <file name="u1239-a.png" crc="187502159" ref="index"/>
+    <file name="u1250.png" crc="533382119" ref="index"/>
+    <file name="u1250-r.png" crc="401799828" ref="index"/>
+    <file name="u1250-m.png" crc="401799828" ref="index"/>
+    <file name="u1250-a.png" crc="401799828" ref="index"/>
+    <file name="bitdex logo.png" crc="4194542459" seo="true" ref="index"/>
+    <file name="u1264-4.png" crc="3843193304" ref="index"/>
+    <file name="u1575-4.png" crc="4086959192" ref="index"/>
+    <file name="u959-4.png" crc="4191973428" ref="index"/>
+    <file name="u1305-4.png" crc="263395803" ref="index"/>
+    <file name="u944-fse.png" crc="3875851814" ref="index"/>
+    <file name="u957-17.png" crc="32467038" ref="index"/>
+    <file name="u957-17-r.png" crc="3923470204" ref="index"/>
+    <file name="u957-17-m.png" crc="3923470204" ref="index"/>
+    <file name="u957-17-fs.png" crc="32467038" ref="index"/>
+    <file name="u1304-4.png" crc="85861029" ref="index"/>
+    <file name="u1516-4.png" crc="4261946849" ref="index"/>
+    <file name="u2005-4.png" crc="426188005" ref="index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-p_g_-maestra.css" crc="4123469559" ref="phone>index"/>
+      <file name="index.css" crc="3931815190" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="131239211" seo="true" mt="1444243527609" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4020872066" seo="true" mt="1453765415195" redirect="true"/>
+</manifest>

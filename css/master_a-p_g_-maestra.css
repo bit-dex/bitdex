@@ -1,0 +1,49 @@
+#u1516-4,#u2005-4
+{
+	display: block;
+	vertical-align: top;
+	position: relative;
+}
+
+#u1517,#u1521
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u1523
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u1519
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u1525
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u1527
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u1521:hover,#u1523:hover,#u1519:hover,#u1525:hover,#u1527:hover
+{
+	background-color: transparent;
+}
+
+#u1521_img:hover,#u1523_img:hover,#u1519_img:hover,#u1525_img:hover,#u1527_img:hover
+{
+	opacity: 0.75;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
+	filter: alpha(opacity=75);
+}
+
